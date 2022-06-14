@@ -7,7 +7,7 @@ Protocol: http
 IP: 162.55.220.72
 Port: 5005
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_1.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_1.png)
 
 EP_1
 Method: GET
@@ -22,7 +22,7 @@ response:
     “Str”
 ]
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_1.get_method.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_1.get_method.png)
 
 ==================
 
@@ -41,7 +41,7 @@ response:
           'family': {'children': [['Alex', 24], ['Kate', 12]],
                      'u_salary_1_5_year': salary * 4}}
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_2.user_info_3.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_2.user_info_3.png)
 
 ==================
 
@@ -59,7 +59,7 @@ response:
           'daily_food': weight * 0.012,
           'daily_sleep': weight * 2.5}
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_3.object_info_1.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_3.object_info_1.png)
 
 ==================
 
@@ -82,7 +82,7 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_4.object_info_2.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_4.object_info_2.png)
 
 ==================
 
@@ -106,7 +106,7 @@ response:
                      'u_salary_1_5_year': salary * 4}
           }
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_5.object_info_3.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_5.object_info_3.png)
 
 ==================
 
@@ -123,7 +123,7 @@ response:
           'age': int(age),
           'salary': [salary, str(salary * 2), str(salary * 3)]}
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_6.object_info_4.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_6.object_info_4.png)
 
 ==================
 
@@ -146,9 +146,9 @@ response:
                      'u_salary_5_years': salary * 4.2}
           }
 		  
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/EP_7.user_info_2.png)
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/EP_7.user_info_2.png)
 
 
 Прогон:
 
-![Image alt](https://github.com/EugeneVovk/Internship-Sprint-2/raw/main/img/HW_1.run.png)		  
+![Image alt](https://github.com/EugeneVovk/Postman/raw/main/img/HW_1.run.png)		  
